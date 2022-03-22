@@ -4,7 +4,7 @@ class Prg8
 	{
 	int a = 21;
 
-	switch (a%2)
+	switch (a%2)//even or odd
 	{
 	case 0:
 		
